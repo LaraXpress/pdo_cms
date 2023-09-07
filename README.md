@@ -1,4 +1,4 @@
-## Build Content Management System(CMS) using PHP, PDO, MySQL, Bootstrap, jQuery-Ajax, with Admin Panel
+### Build Content Management System(CMS) using PHP, PDO, MySQL, Bootstrap, jQuery-Ajax, with Admin Panel
 - Authentication System
 - Manage Profile
 - Manage Category
